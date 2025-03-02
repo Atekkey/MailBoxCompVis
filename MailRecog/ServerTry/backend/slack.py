@@ -9,6 +9,6 @@ def writeToNamesFile(name, fname = "/Users/anandtekkey/macGitRepo/MailBoxCompVis
 # def removeName(name, fname = "/Users/anandtekkey/macGitRepo/MailBoxCompVis/MailRecog/names.txt"): # Will need changing
 #     return
 
-def fullActionGetName():
-    
+# def fullActionGetName():
+#     return
 # writeToNamesFile("Me 32")
